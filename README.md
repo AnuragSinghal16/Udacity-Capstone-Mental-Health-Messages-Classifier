@@ -13,6 +13,7 @@ The main aim of this project was to utilise the power of machine learning and na
 ## Files
 1. model.ipynb - the main code that builds the model
 2. data.zip -  due to the size of the dataset, the file is converted to .zip and uploaded. Please decompress file to access .csv. This is the training and test dataset used to build the model
+3. Here is the blog link - https://medium.com/@anuragsinghal1610/udacity-capstone-mental-health-messages-classificatioi-847d2293472a
 
 ## Performance & Evaluation
   ![image](https://github.com/user-attachments/assets/9e410c52-3dbc-4df8-9b13-134a494f9095)
